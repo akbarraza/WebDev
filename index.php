@@ -6,3 +6,7 @@
  * and open the template in the editor.
  */
 
+echo 'Hello world';// . PHP_EOL;
+echo "Second line \n";
+
+echo "Third line \n";
